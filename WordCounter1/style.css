@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+ .container{
+    background-color: rgb(123, 198, 255);
+    width: 510px;
+    height: 275px;
+    padding: 30px;
+    ;
+     border: 2px solid black;
+     margin-right: auto;
+     margin-left: auto;
+     margin-bottom: auto;
+     position: relative;
+     top: 150px;
+   
+} 
+
+ h2{
+    text-align: center;
+    position: relative;
+    top: 158px;
+    
+}
+
+.text-input{
+    width: 80%;
+    height: 200px;
+    padding: 10px;
+     border: 2px solid black;
+     margin-right: auto;
+     margin-left: auto;
+     display: block;
+     background-color: rgb(123, 198, 255);
+     resize: none;
+}
+
+.container h1{
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+    padding-right: 20px;
+    position: relative;
+    left: 35px;
+}
